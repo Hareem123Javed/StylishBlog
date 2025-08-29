@@ -6,7 +6,7 @@ A modern, responsive, and theme-aware blog layout built using **HTML**, **CSS**,
 
 ---
 
-## 🎨 Design Approaches
+##  Design Approaches
 
 ### 1. **Theming with CSS Variables**
 
